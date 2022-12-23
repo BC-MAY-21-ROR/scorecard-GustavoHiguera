@@ -7,16 +7,15 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Jorge Alberto Rodriguez Flores # Nombre y apellido
+  name: Gustavo Higuera Mayoral # Nombre y apellido
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: jarf4321@gmail.com
-  phone: +52 312 943 57 76
-  website: jarf-portfolio.netlify.app/
-  linkedin: jarf4321
-  github: JorgeRodz
+  email: gustavohigueram@hotmail.com
+  phone: +52 312 169 50 47
+  linkedin: gustavohigueram
+  github: GustavoHiguera
   gitlab:
   bitbucket:
   twitter: "@JarfDev"
@@ -40,10 +39,7 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
-      link: # dejar en blanco
-
-    - item: Self-taught
+    - item: Empathy
       link: # dejar en blanco
 
     - item: Problem-Solving
@@ -52,59 +48,63 @@ sidebar:
     - item: Adaptability
       link: # dejar en blanco
 
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Leadership  
+      link: # dejar en blanco
+
+    - item: Self-Management
+      link: # dejar en blanco
+
+    - item: Critical Thinking
+      link: # dejar en blanco
+
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    My name is Jorge Rodriguez I live in Colima, Colima Mexico.
-
-    I graduated From Universidad de Colima with a Bachelor's degree in software engineering.
-
-    I mainly focus on web development with React framework and in the backend with Ruby on Rails but I am willing to learn new technologies if require.
-
-    My main focus right now is to get into the industry as a trainee or junior software engineer and start getting experience working in a company.
-
-    Last but not least, I also like all the environment around the GNU/Linux stuff; the distros, commands, terminal, scripting, etc. And hopefully in the future also become a DevOps engineer, but first things firsts.
+    My name is Gustavo Higuera Mayoral, I am a Software Engineering student with strong experience on back-end development
+    and database desing and administration to solve real life problems. Involved in open-source community and tech communities.
+    Searching for new opportunities to grow in hard and soft skills.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineering
     university: Universidad de Colima
-    time: 2010 - 2015
+    time: 2020 - 2024
     details: |
-      Graduated with a Bachelor's degree in software engineering in 2019.
-
+      
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Ruby on Rails Developer
-    time: August 2022 - December 2022
+    time: August 2022 - November 2022
     company: BrightCoders Academy
     details: |
-      I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
-      In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
-      - The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
-      - The second one was to create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+      • Focused on learning Ruby and Ruby on Rails using agile methodologies for web and api 
+      development.
+      • Used good practices to develop code of quality.
+      • Trained communication and teamwork with mob programming and pair programming to generate
+      strong solutions.
+
+  - role: Database Administrator and Designer
+    time: August 2021 - July 2022
+    company: Universidad de Colima
+    details: |
+      • Designed database models for a mobile application of Universidad de Colima.
+      • Administrated database servers to ensure their reliability.
+      • Worked with MySQL queries to present precise information about the data.
+      • Used ACID properties to guarantee transactions
 
 # Registra aquí los proyectos en los que has participado
 projects:
   title: Projects
 
   assignments:
-    - title: Natours
-      link: "https://natours-jarf.netlify.app/"
-      tagline: "Natours is a landing page for a fictional company that sells tours in nature. This project is mainly focused on HTLM and CSS, in the Css part I used the SASS framework to keep organized the styles; I also use the parcel bundle to pack the project and have an optical performance."
-
-    - title: Forkify
-      link: "https://recetario-jarf.netlify.app/"
-      tagline: "Forkify is a recipe search engine in which you just type the name or part of the name of the dessert you wanted to cook and a list of recipes will show up. In this project, I used vanilla JS to consume an API and display the results according to the searched recipe."
-
-    - title: Guess the number
-      link: "https://guess-n.netlify.app/"
-      tagline: "This is a fun one, in this game you have to guess a number between 0 and 50, and you have unlimited tries. This game was with vanilla JS. Can you guess the number? "
-
-    - title: Alpha Blog
-      link: "http://jarf-alpha-blog-rails-6.herokuapp.com/"
-      tagline: "Alpha Blog is a based Ruby on Rails project in which you sign up and start creating articles. In this project, I put into practice the CRUD of Ruby on Rails, which also covers other main topics like working with the rails console, rails commands, Database relationships, User sessions, and admin sessions."
+    - title: SGSI_Universidad
+      link: 
+      tagline: "This is a project where I designed and administrated a database that stores information about students and workers of university. The objective of the project is to guarantee the security using an ISMS from ISO 27001. I also developed a web application to manage the data. This was done using PostgreSQL and Ruby on Rails."
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -117,16 +117,16 @@ skills:
 
   toolset:
     - name: HTML
-      level: 80%
+      level: 60%
 
     - name: CSS
-      level: 80%
+      level: 60%
 
     - name: Javascript
       level: 80%
 
     - name: SASS
-      level: 80%
+      level: 40%
 
     - name: Ruby
       level: 80%
@@ -137,8 +137,8 @@ skills:
     - name: Git
       level: 60%
 
-    - name: React JS
-      level: 60%
+    - name: PostgreSQL
+      level: 80%
 
 # NO MODIFICAR
 footer: >
