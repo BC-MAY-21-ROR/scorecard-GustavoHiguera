@@ -82,20 +82,20 @@ experiences:
     time: August 2022 - November 2022
     company: BrightCoders Academy
     details: |
-      • Focused on learning Ruby and Ruby on Rails using agile methodologies for web and api 
+      - Focused on learning Ruby and Ruby on Rails using agile methodologies for web and api 
       development.
-      • Used good practices to develop code of quality.
-      • Trained communication and teamwork with mob programming and pair programming to generate
+      - Used good practices to develop code of quality.
+      - Trained communication and teamwork with mob programming and pair programming to generate
       strong solutions.
 
   - role: Database Administrator and Designer
     time: August 2021 - July 2022
     company: Universidad de Colima
     details: |
-      • Designed database models for a mobile application of Universidad de Colima.
-      • Administrated database servers to ensure their reliability.
-      • Worked with MySQL queries to present precise information about the data.
-      • Used ACID properties to guarantee transactions
+      - Designed database models for a mobile application of Universidad de Colima.
+      - Administrated database servers to ensure their reliability.
+      - Worked with MySQL queries to present precise information about the data.
+      - Used ACID properties to guarantee transactions
 
 # Registra aquí los proyectos en los que has participado
 projects:
