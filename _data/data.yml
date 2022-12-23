@@ -103,7 +103,7 @@ projects:
 
   assignments:
     - title: SGSI_Universidad
-      link: 
+      link: https://github.com/GustavoHiguera/SGSI_Universidad
       tagline: "This is a project where I designed and administrated a database that stores information about students and workers of an university. The objective of the project is to guarantee the security of the information using an ISMS from ISO 27001. I also developed a web application to manage the data. This was done using PostgreSQL and Ruby on Rails."
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
